@@ -24,6 +24,8 @@ Determine the following performance indicators:
 
 
 
+
+
 ### Q 2
 
 Task 2 is a check task. The management thinks about a selective execution of this task where only 25% of the cases are checked. The average service time of this new task is 6 minutes.
